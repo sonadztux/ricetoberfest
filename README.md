@@ -43,6 +43,20 @@ ___
 
 ___
 
+[sonadztux](https://github.com/sonadztux)
+
+![sonadztux](https://i.imgur.com/LOVmnEq.jpeg)
+
+`OS/Distro: GrombyangOS 2.0 Education (Ubuntu based)`
+
+`Window Manager: xfwm4`
+
+`Window Manager Theme: TillSummer`
+
+`Shell: bash`
+
+___
+
 </p>
 
 # Credits
